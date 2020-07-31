@@ -22,4 +22,4 @@ Click 'Save File' to save the result image into folder '\Test Images\Defogs' by 
 He K, Sun J, Tang X. Single image haze removal using dark channel prior. IEEE transactions on pattern analysis and machine intelligence. 2011 Dec;33(12):2341-53.
 
 # Conclusion
-This implementation is a simple implementation of the paper. Although there are some details in the paper is omitted but the result is relative acceptable.
+This implementation is a simple implementation of the paper. Some details in the paper are omitted but the result is still acceptable.
